@@ -23,8 +23,9 @@ by YouTube views, closes 23 Nov 2026 01:00 UTC / 08:00 WIB).
 - **Format:** vertical 1080×1920, 14.5s (under a minute = a Short),
   blur-fill crop so nothing falls off the sides.
 - **Title:** GTA 6 Escape: Jetski Jump + Low Plane Stunt
-- **Play code:** makefun-brownie-coral-pasture (verified from the
-  gta6-meme-x-01 receipt, same account).
+- **Play code:** makefun-iceberg-boot-oasis — code 0 of 4 for THIS
+  bounty, printed by the kit check itself (play codes are per-competition;
+  the meme-x code makefun-brownie-coral-pasture does NOT apply here).
 
 ## Build (all commands run in this session)
 
